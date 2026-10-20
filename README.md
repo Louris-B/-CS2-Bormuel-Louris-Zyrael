@@ -1,1 +1,11 @@
-# -CS2-Bormuel-Louris-Zyrael
+# Electricity Bill Calculator
+
+## Description:
+A program that calculates your current electricity bill.
+
+## Versions:
+### Version 1 – Original code without input validation.
+- Input: Accepts a customer's name, previous meter reading, and current meter reading.
+- Process: Calculates and displays your electricity bill.
+- Outputs: Customer name, electricity consumption, and total bill.
+- Does not include input validation.
